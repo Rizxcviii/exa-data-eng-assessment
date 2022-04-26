@@ -10,8 +10,8 @@ Currently the dataset retrieves the `fullUrl` and `id` of the required data.
 
 ## Technologies Used
 
-Programming Language + Framework - Python - PySpark
-Storage Layer - CSV
+- Programming Language + Framework - Python - PySpark
+- Storage Layer - CSV
 
 # How To Run
 
