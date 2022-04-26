@@ -1,6 +1,4 @@
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import col, explode, from_json
-from pyspark.sql.types import ArrayType, StringType, StructField, StructType
 
 spark = SparkSession.builder.appName("FHIR conversoin").getOrCreate()
 
